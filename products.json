@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Shirt",
+    "price": 30000,
+    "amount": 50
+  },
+  {
+    "name": "Pants",
+    "price": 70000,
+    "amount": 30
+  },
+  {
+    "name": "Shoes",
+    "price": 120000,
+    "amount": 20
+  },
+  {
+    "name": "Scarf",
+    "price": 15000,
+    "amount": 15
+  },
+  {
+    "name": "Cap",
+    "price": 10000,
+    "amount": 35
+  },
+  {
+    "name": "Skirt",
+    "price": 45000,
+    "amount": 25
+  },
+  {
+    "name": "Dress",
+    "price": 50000,
+    "amount": 5
+  },
+  {
+    "name": "Jacket",
+    "price": 100000,
+    "amount": 4
+  },
+  {
+    "name": "Socks",
+    "price": 5000,
+    "amount": 40
+  },
+  {
+    "name": "Bag",
+    "price": 80000,
+    "amount": 10
+  }
+]
